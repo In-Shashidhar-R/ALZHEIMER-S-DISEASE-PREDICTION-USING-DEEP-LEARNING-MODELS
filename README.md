@@ -6,11 +6,11 @@
 
 The primary objective of this study is to develop and evaluate an AI-based Alzheimer’s detection system using **MobileNetV2** as the main model. The study aims to assess MobileNetV2’s capability to accurately classify medical images into three distinct categories:
 
-- **Alzheimer’s Disease (AD)** ![image](https://github.com/user-attachments/assets/e2d84d0b-a72a-4671-861c-e18d1aa2c493)
+- **Alzheimer’s Disease (AD)**
 
-- **Cognitively Impaired (CI)** ![image](https://github.com/user-attachments/assets/4a6f7b07-68e0-4d48-afd4-5f6979f100a2)
+- **Cognitively Impaired (CI)**
 
-- **Common Normal (CN)** ![image](https://github.com/user-attachments/assets/dee95ab4-3f40-4940-931b-c817c70770b8)
+- **Common Normal (CN)**
 
 
 By comparing its performance against well-established deep learning architectures such as **VGG19**, **ResNet50**, and **InceptionV3**, this research seeks to determine whether MobileNetV2 can provide a **lightweight, efficient, and deployable** solution for real-world clinical use.
