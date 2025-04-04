@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d8a2493-662e-4d82-a1e5-d25a940be9a0)## 1. MobileNetV2  
+## 1. MobileNetV2  
 
 MobileNetV2 is a lightweight deep learning model optimized for mobile and real-time applications. It balances **high accuracy with low computational requirements**, making it ideal for deployment in **clinical and edge computing environments**.
 
